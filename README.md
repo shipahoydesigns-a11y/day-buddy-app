@@ -1,1 +1,1 @@
-# elliots-day-buddy.
+# Day Buddy.
